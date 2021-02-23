@@ -1,1 +1,1 @@
-# sql_hospital
+Sql server project for hospital management
